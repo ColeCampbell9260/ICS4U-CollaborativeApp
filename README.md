@@ -3,6 +3,7 @@
 This is the GitHub for our Collaborative App.
 
 **Finding Your Group's Branch:**
+
 There are branches for each individual group. To access your branch, select the button that says "branch: master" 
 (next to the "ICS4U-CollaborativeApp/" link)
 

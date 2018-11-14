@@ -1,2 +1,6 @@
 # ICS4U-CollaborativeApp
-let coleIsDead = True
+let coleIsDead = true
+
+if coleIsDead {
+    party()
+}

@@ -36,6 +36,6 @@ You will be redirected back to your branch, next to the "branch: *your branch na
 
 You will now be redirected to a screen where you can rename your submission or retype your description. This is optional
 
-Select the green "Create pull request button"
+Select the green "Create pull request button" DO NOT PRESS the Merge Changes
 
 I (Cole) will discuss changes with you before I merge your changes
